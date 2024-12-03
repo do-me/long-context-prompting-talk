@@ -10,7 +10,7 @@ The whole point of the presentation is that:
 - you should be aware of a model's output quality which might dramatically decrease (https://github.com/NVIDIA/RULER)
  like when you use more than 64k tokens in Llama 3.1. Newer models & commercial models do not seem to have this problem anymore (https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#performance)
 - if you can fit all information in the prompt do so and do not use RAG: https://arxiv.org/abs/2407.16833
-- if the prompt exceeds the model's context, summarize the data with LLMs and use LLMLingua2 to compress it further, but check the results! (https://huggingface.co/spaces/microsoft/llmlingua-2) Be careful when you enter a database with highly varying text lengths - long text entries might create a bias with respect to shorter
+- if the prompt exceeds the model's context, summarize the data with LLMs and use LLMLingua2 to compress it further, but check the results! (https://huggingface.co/spaces/microsoft/llmlingua-2) Be careful when you enter a database with highly varying text lengths - long text entries might create a bias with respect to shorter ones
 - if it's still to much information, you can use a hybrid approach as proposed by Google https://arxiv.org/abs/2407.16833
 
 ## Example Use Case
