@@ -8,8 +8,8 @@ It includes a practical example for efficient use of long-context models (>64,00
 The whole point of the presentation is that:
 - you should make efficient use of the model's context length and provide as much information right in the prompt as you can
 - you should be aware of a model's output quality which might dramatically decrease [as detailed here](https://github.com/NVIDIA/RULER) like when you use more than 64k tokens in Llama 3.1. Newer models & commercial models do not seem to have this problem anymore [as described in Google's February 2024 blog](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#performance)
-- if you can fit all information in the prompt, do so and do not use RAG: [source](https://arxiv.org/abs/2407.16833)
-- if the prompt exceeds the model's context, summarize the data with LLMs and use LLMLingua2 to compress it further, but check the results! [Details here](https://huggingface.co/spaces/microsoft/llmlingua-2). Be careful when you enter a database with highly varying text lengths - long text entries might create a bias with respect to shorter ones
+- if you can fit all information in the prompt, do so and [do not use RAG](https://arxiv.org/abs/2407.16833) for improved quality
+- if the prompt exceeds the model's context, summarize the data with LLMs and use [LLMLingua2](https://huggingface.co/spaces/microsoft/llmlingua-2) to compress it further, but check the results! Be careful when you enter a database with highly varying text lengths - long text entries might create a bias with respect to shorter ones
 - if it's still too much information, you can use a hybrid approach [as proposed by Google](https://arxiv.org/abs/2407.16833)
 
 ## Example Use Case
