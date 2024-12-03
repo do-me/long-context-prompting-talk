@@ -23,5 +23,4 @@ SMEs – of an estimated €450 million.
 
 The idea here is to create a first automatic link between European legislation (https://eur-lex.europa.eu/homepage.html?locale=en) and e.g. Copernicus products: https://www.copernicus.eu/en/accessing-data-where-and-how/copernicus-services-catalogue.
 
-If you are part of an EU instituion, please feel free to reach out.
- 
+If you are part of an EU institution, please feel free to reach out.
