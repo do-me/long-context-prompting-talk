@@ -15,7 +15,7 @@ The whole point of the presentation is that:
 
 ## Example Use Case
 
-The European Commission wants to reduce the "reporting burden" (https://commission.europa.eu/system/files/2023-10/Factsheet_CWP_Burdens_10.pdf) by 25%. We at the Knowledge Centre on Earth Observation believe that Earth Observaion can contribute especially to this bullet: 
+The European Commission wants to reduce the "reporting burden" (https://commission.europa.eu/system/files/2023-10/Factsheet_CWP_Burdens_10.pdf) by 25%. Earth Observaion can contribute especially to this bullet: 
 
 > To revise the Regulation on European statistics, aimed at reducing the number of surveys and
 increasing the use of automated and simplified processes, which will bring cost savings – including for
