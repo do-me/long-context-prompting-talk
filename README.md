@@ -1,4 +1,4 @@
-# Long Context Prompting
+# LLM Long Context Prompting
 This is the supporting repo for my talk on 4 December 2024 for GPT@JRC. 
 
 It includes a practical example for efficient use of long-context models (>64,000 tokens like >Llama 3.1, Qwen 2.5, or commercial models like Gemini Pro 1.5 with 2M tokens).
