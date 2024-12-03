@@ -1,0 +1,760 @@
+Lake Ice Extent 2024-present (raster 250 m), Europe, daily – version  2
+On a daily basis, classifies pixels of Continental Europe freshwater bodies as 1) Fully snow-covered ice, 2) Partially snow-covered or snow-free ice, and 3) Open water. The data is available in near real time in a spatial resolution of 250 m and with the temporal extent from July the 1st, onwards. In June 2024, the data input sensor was transferred from Terra MODIS (VERSION 1.2.1) to NOAA-20 VIIRS (VERSION 2.2.1), and the area was extended from the Baltic region to cover Continental Europe.
+https://land.copernicus.eu/en/products/water-bodies/lake-ice-extent-europe-v2-250m
+---
+Very High Resolution Image Mosaic 2021 True Colour (raster 2 m), Europe
+Provides at pan-European level one cloud-free very high resolution optical coverage for the 2021 reference year, acquired within predefined windows corresponding to the vegetation season in 2020-2021-2022. The very high resolution images are obtained from various missions and have a spatial resolution from 2 m to maximum 4 m.
+https://land.copernicus.eu/en/products/european-image-mosaic/very-high-resolution-image-mosaic-2021-true-colour-2m
+---
+Lake Water Quality 2024-present (raster 300 m), global, 10-daily – version 2
+Provides semi-continuous observations for a large number of medium and large-sized lakes. 10-daily observations are available in near real time at 300 m spatial resolution from September 2024 to present.
+https://land.copernicus.eu/en/products/water-bodies/lake-water-quality-near-real-time-v2-0-300m
+---
+European Ground Motion Service: Basic 2019-2023 (vector), Europe, yearly
+Provides InSAR displacement data provided in the satellite Line-of-Sight, with annotated geo-localisation and quality measures per measurement point. The dataset is generated from the interferometric analysis of Sentinel-1 radar images at full resolution (20x5 m).   EGMS Basic is visualised as a vector map of measurement points colour-coded by average line-of-sight velocity and distributed to users in comma-separated values format. Each point is associated with a time series of displacement, i.e. a plot with values of displacement per acquisition of the satellite. The dataset is generated for both ascending and descending orbits. 
+https://land.copernicus.eu/en/products/european-ground-motion-service/egms-basic
+---
+CLC+Backbone 2021 (raster 10 m), Europe, 3-yearly
+Provides pan-European wall-to-wall spatially detailed land cover inventory for the 2021 reference year, for each pixel showing the dominant land cover among the 11 basic land cover classes. The dataset is available as 10 m raster.
+https://land.copernicus.eu/en/products/clc-backbone/clc-backbone-2021
+---
+Burnt Area 2023 - present (raster 300 m), global, daily – version 3.1
+The Burnt Area products map burn scars, surfaces which have been sufficiently affected by fire to display significant changes in the vegetation cover (destruction of dry material, reduction or loss of green material) and in the ground surface (temporarily darker because of ash). Daily products are available at global scale, in the spatial resolution of 300 m, and within 24 hours after the satellite acquisition. They cover the period from July 2023 to present.
+https://land.copernicus.eu/en/products/vegetation/burnt-area-v3-1-daily-300m
+---
+CLC+Backbone 2018 (raster 10 m), Europe, 3-yearly
+Provides pan-European wall-to-wall spatially detailed land cover inventory for the 2018 reference year, for each pixel showing the dominant land cover among the 11 basic land cover classes. The dataset is available as 10 m raster.
+https://land.copernicus.eu/en/products/clc-backbone/clc-backbone-2018
+---
+Season Maximum Value 2023-present (raster 300 m), global, yearly, version 1
+Provides the maximum (peak) value that the Plant Phenology Index reaches during the vegetation growing season. The data at global level are updated in the first quarter of each year. The data are available from 2023 to the present at about 300 m spatial resolution.
+https://land.copernicus.eu/en/products/vegetation/season-maximum-value-2023-raster-300m-global-yearly-version-1
+---
+Slope of the Green-up Period 2023-present (raster 300 m), global, yearly, version 1
+Provides the rate of change in the values of the Plant Phenology Index at the day when the vegetation growing season starts. The data at global level are updated in the first quarter of each year. The data are available from 2023 to the present at about 300 m spatial resolution.
+https://land.copernicus.eu/en/products/vegetation/slope_of_green-up-period-2023-raster-300m-global-yearly-version-1
+---
+Slope of the Green-down Period 2023-present (raster 300 m), global, yearly, version 1
+Provides the rate of change in the values of the Plant Phenology Index at the day when the vegetation growing season ends. The data at global level are updated in the first quarter of each year. The data are available from 2023 to the present at about 300 m spatial resolution.
+https://land.copernicus.eu/en/products/vegetation/slope_of_green-down-period-2023-raster-300m-global-yearly-version-1
+---
+Start-of-season Value 2023-present (raster 300 m), global, yearly, version 1
+Provides the value of the Plant Phenology Index at the start of the vegetation growing season. The data at global level are updated in the first quarter of each year. The data are available from 2023 to the present at about 300 m spatial resolution.
+https://land.copernicus.eu/en/products/vegetation/start-of-season-value-2023-raster-300m-global-yearly-version-1
+---
+Total Productivity 2023-present (raster 300 m), global, yearly, version 1
+Provides the growing season integral computed as the sum of all daily Plant Phenology Index values between the dates of the season start and end. The data at global level are updated in the first quarter of each year. The data are available from 2023 to the present at about 300 m spatial resolution.
+https://land.copernicus.eu/en/products/vegetation/total-productivity-2023-raster-300m-global-yearly-version-1
+---
+Season Minimum Value 2023-present (raster 300 m), global, yearly, version 1
+Provides the average Plant Phenology Index value of the minima on left and right sides of each season. The data at global level are updated in the first quarter of each year. The data are available from 2023 to the present at about 300 m spatial resolution.
+https://land.copernicus.eu/en/products/vegetation/season-minimum-value-2023-raster-300m-global-yearly-version-1
+---
+Season Length 2023-present (raster 300 m), global, yearly, version 1
+Provides the number of days between the start and end dates of the vegetation growing season. The data at global level are updated in the first quarter of each year. The data are available from 2023 to the present at about 300 m spatial resolution.
+https://land.copernicus.eu/en/products/vegetation/season-length-2023-raster-300m-global-yearly-version-1
+---
+Season Amplitude 2023-present (raster 300 m), global, yearly, version 1
+Provides the difference between the maximum and minimum Plant Phenology Index values reached during the season. The data at global level are updated in the first quarter of each year. The data are available from 2023 to the present at about 300 m spatial resolution.
+https://land.copernicus.eu/en/products/vegetation/season-amplitude-value-2023-raster-300m-global-yearly-version-1
+---
+Burnt Area 2019 - present (raster 300 m), global, monthly - version 3.1
+The Burnt Area products burn scars, surfaces which have been sufficiently affected by fire to display significant changes in the vegetation cover (destruction of dry material, reduction or loss of green material) and in the ground surface (temporarily darker because of ash). Monthly products are available at global scale, in the spatial resolution of 300 m, and with a time lag of two months. They cover the period from 2019 to present.
+https://land.copernicus.eu/en/products/vegetation/burnt-area-v3-1-monthly-300m
+---
+European Ground Motion Service: GNSS model (vector), Europe, 2-yearly
+Satellite interferometry offers detailed, local-scale measurements (up to tens of kilometres) that are relative to specific spatial references, while global navigation satellite system (GNSS) provides absolute spatial data over larger extents. Utilizing the synergistic capabilities of satellite interferometry and GNSS, EGMS provides high-resolution local measurements across a broad spatial scale. The GNSS velocity model is derived from 4716 GNSS stations around Europe using state of the art geodetic methodologies. It is a 50-km gridded model that it is delivered as comma-separated values file. Each grid cell is identified by latitude and longitude coordinates and by the values of the three components of the velocity with their quality parameters.
+https://land.copernicus.eu/en/products/european-ground-motion-service/egms-gnssmodel
+---
+European Ground Motion Service: Ortho 2019-2023 (vector), Europe, yearly
+The EGMS Ortho exploits the information provided by ascending and descending orbits of the EGMS Calibrated to derive two further layers; one of purely vertical displacements (EGMS Ortho Vertical), the other of purely east-west displacements (EGMS Ortho East/West). Both layers are resampled to a 100 m grid, so that the final resolution is 100 by 100 m. EGMS Ortho is visualised as a vector map of measurement points colour-coded by average velocity (vertical or east-west components) and distributed to users in comma-separated values format. Each point is associated with a time series of displacement, i.e. a plot with values of displacement per acquisition of the satellite. 
+https://land.copernicus.eu/en/products/european-ground-motion-service/egms-ortho
+---
+Soil Water Index - Time Series 2007-present (raster 12.5 km), global, daily – version 3
+The SWI TS product is a reformatting of the SWI 0.1° v3 daily product into a time series format which makes it easier to perform local, time series based analysis without having to download and convert data for the whole globe.
+https://land.copernicus.eu/en/products/soil-moisture/daily-soil-water-index-temporal-series-global-v3-0-12-5km
+---
+Gross Primary Production 2023-present (raster 300 m), global, 10-daily – version 1
+Provides the total amount of carbon compounds produced by photosynthesis of plants in an ecosystem in a given period of time. 10-daily observations are available at global scale in the spatial resolution of 300 m and with the temporal extent from 2023 to present.
+https://land.copernicus.eu/en/products/vegetation/gross-primary-production-v1-0-300m
+---
+European Ground Motion Service: Calibrated 2019-2023 (vector), Europe, yearly
+Contains the same type of information as the EGMS Basic, but the measurement points are referenced to a model derived from global navigation satellite system data. This dataset is generated from the interferometric analysis of Sentinel-1 radar images at full resolution (20x5 m). EGMS Calibrated is visualised as a vector map of measurement points, colour-coded by average velocity, and distributed to users in comma-separated values format. Each point is associated with a time series of displacement, i.e. a plot with values of displacement per acquisition of the satellite. The dataset is generated for both ascending and descending orbits. 
+https://land.copernicus.eu/en/products/european-ground-motion-service/egms-calibrated
+---
+Season Maximum Date 2023-present (raster 300 m), global, yearly, version 1
+Provides the date in the vegetation growing season when the maximum Plant Phenology Index value is reached. The data at global level are updated in the first quarter of each year. The data are available from 2023 to the present at about 300 m spatial resolution.
+https://land.copernicus.eu/en/products/vegetation/season-maximum-date-2023-raster-300m-global-yearly-version-1
+---
+Start-of-season Date 2023-present (raster 300 m), global, yearly, version 1
+Provides the date when the vegetation growing season starts in the time profile of the Plant Phenology Index. The start-of-season occurs, by definition, when the Plant Phenology Index value reaches 25% of the season amplitude during the green-up period. The data at global level are updated in the first quarter of each year. The data are available from 2023 to the present at about 300 m spatial resolution.
+https://land.copernicus.eu/en/products/vegetation/start-of-season-date-2023-raster-300m-global-yearly-version-1
+---
+Seasonal Productivity 2023-present (raster 300 m), global, yearly, version 1
+Provides the growing season integral computed as sum of all daily Plant Phenology Index values between the dates of the season start and end, minus their base level value. The data at global level are updated in the first quarter of each year. The data are available from 2023 to the present at about 300 m spatial resolution.
+https://land.copernicus.eu/en/products/vegetation/seasonal-productivity-2023-raster-300m-global-yearly-version-1
+---
+Vegetation Phenology and Productivity Parameters Quality Flag 2023-present (raster 300 m), global, yearly, version 1
+Indicates the quality of the global Vegetation Phenology and Productivity Parameters, in the form of a confidence level. The data at global level are updated in the first quarter of each year. The data are available from 2023 to the present at about 300 m spatial resolution.
+https://land.copernicus.eu/en/products/vegetation/vpp-parameters-quality-flag-2023-raster-300m-global-yearly-version-1
+---
+Lake Ice Extent 2017-2024 (raster 250 m), Baltic, daily – version 1
+On daily basis for the Northern Europe classifies, in pixels, inland/freshwater bodies as 1) Fully snow-covered ice, 2) Partially snow-covered or snow-free ice, 3) Open water. The data is available in near real time in the spatial resolution of 250 m and with the temporal extent from March 2017 to 30 June 2024.
+https://land.copernicus.eu/en/products/water-bodies/lake-ice-extent-baltic-v1-250m
+---
+Normalised Difference Vegetation Index (Short Term Statistics) 2015-2019 (raster 1 km), global, 10-daily – version 3
+Based upon PROBA-V NDVI 1km version 3, short-term statistics include the minimum, median, maximum, mean, standard deviation and the number of observations over the 5-years period 2015-2019.
+https://land.copernicus.eu/en/products/vegetation/normalised-difference-vegetation-short-term-statistics-v3-0-1km
+---
+End-of-season Date 2023-present (raster 300 m), global, yearly, version 1
+Provides the date when the vegetation growing season ends in the time profile of the Plant Phenology Index. The end-of-season occurs, by definition, when the Plant Phenology Index value reaches 15% of the season amplitude during the green-down period. The data at global level are updated in the first quarter of each year. The data are available from 2023 to the present at about 300 m spatial resolution.
+https://land.copernicus.eu/en/products/vegetation/end-of-season-date-2023-raster-300m-global-yearly-version-1
+---
+Land Cover 2019 (raster 100 m), global, yearly – version 3
+Provides at global level spatial information on different types (classes) of physical coverage of the Earth's surface, e.g. forests, grasslands, croplands, lakes, wetlands for the 2019 base year. The data are updated annually and are available for the 2015-2019 years.
+https://land.copernicus.eu/en/products/global-dynamic-land-cover/copernicus-global-land-service-land-cover-100m-collection-3-epoch-2019-globe
+---
+Land Cover 2018 (raster 100 m), global, yearly – version 3
+Provides at global level spatial information on different types (classes) of physical coverage of the Earth's surface, e.g. forests, grasslands, croplands, lakes, wetlands for the 2018 base year. The data are updated annually and are available for the 2015-2019 years.
+https://land.copernicus.eu/en/products/global-dynamic-land-cover/copernicus-global-land-service-land-cover-100m-collection-3-epoch-2018-globe
+---
+Land Cover 2017 (raster 100 m), global, yearly – version 3
+Provides at global level spatial information on different types (classes) of physical coverage of the Earth's surface, e.g. forests, grasslands, croplands, lakes, wetlands for the 2017 base year. The data are updated annually and are available for the 2015-2019 years.
+https://land.copernicus.eu/en/products/global-dynamic-land-cover/copernicus-global-land-service-land-cover-100m-collection-3-epoch-2017-globe
+---
+Land Cover 2016 (raster 100 m), global, yearly – version 3
+Provides at global level spatial information on different types (classes) of physical coverage of the Earth's surface, e.g. forests, grasslands, croplands, lakes, wetlands for the 2016 base year. The data are updated annually and are available for the 2015-2019 years.
+https://land.copernicus.eu/en/products/global-dynamic-land-cover/copernicus-global-land-service-land-cover-100m-collection-3-epoch-2016-globe
+---
+Land Cover 2015 (raster 100 m), global, yearly – version 3
+Provides at global level spatial information on different types (classes) of physical coverage of the Earth's surface, e.g. forests, grasslands, croplands, lakes, wetlands for the 2015 base year. The data are updated annually and are available for the 2015-2019 years.
+https://land.copernicus.eu/en/products/global-dynamic-land-cover/copernicus-global-land-service-land-cover-100m-collection-3-epoch-2015-globe
+---
+CORINE Land Cover 2018 (vector/raster 100 m), Europe, 6-yearly
+Provides pan-European CORINE Land Cover inventory for 44 thematic classes for the 2018 reference year. The dataset  has a Minimum Mapping Unit (MMU) of 25 hectares (ha) for areal phenomena and a Minimum Mapping Width (MMW) of 100 m for linear phenomena and is available as vector and as 100 m raster data.
+https://land.copernicus.eu/en/products/corine-land-cover/clc2018
+---
+CORINE Land Cover 2012 (vector/raster 100 m), Europe, 6-yearly
+Provides pan-European CORINE Land Cover inventory for 44 thematic classes for the 2012 reference year. The dataset has a Minimum Mapping Unit (MMU) of 25 hectares (ha) for areal phenomena and a Minimum Mapping Width (MMW) of 100 m for linear phenomena and is available as vector and as 100 m raster data.
+https://land.copernicus.eu/en/products/corine-land-cover/clc-2012
+---
+CORINE Land Cover 2006 (vector/raster 100 m), Europe, 6-yearly
+Provides pan-European CORINE Land Cover inventory for for 44 thematic classes the 2006 reference year. The dataset has a Minimum Mapping Unit (MMU) of 25 hectares (ha) for areal phenomena and a Minimum Mapping Width (MMW) of 100 m for linear phenomena and is available as vector and as 100 m raster data.
+https://land.copernicus.eu/en/products/corine-land-cover/clc-2006
+---
+CORINE Land Cover 2000 (vector/raster 100 m), Europe, 6-yearly
+Provides pan-European CORINE Land Cover inventory for 44 thematic classes for the 2000 reference year. The dataset has a Minimum Mapping Unit (MMU) of 25 hectares (ha) for areal phenomena and a Minimum Mapping Width (MMW) of 100 m for linear phenomena and is available as vector and as 100 m raster data.
+https://land.copernicus.eu/en/products/corine-land-cover/clc-2000
+---
+CORINE Land Cover 1990 (vector/raster 100 m), Europe, 6-yearly
+Provides pan-European CORINE Land Cover inventory for 44 thematic classes for the 1990 reference year. The dataset has a Minimum Mapping Unit (MMU) of 25 hectares (ha) for areal phenomena and a Minimum Mapping Width (MMW) of 100 m for linear phenomena and is available as vector and as 100 m raster data.
+https://land.copernicus.eu/en/products/corine-land-cover/clc-1990
+---
+CORINE Land Cover Change 2012-2018 (vector/raster 100 m), Europe, 6-yearly
+Provides land cover change information between the 2012 and 2018 CLC status layers. The dataset has a Minimum Mapping Unit (MMU) of 5 hectares (ha) and is available as vector and as 100 m raster data.
+https://land.copernicus.eu/en/products/corine-land-cover/lcc-2012-2018
+---
+CORINE Land Cover Change 2006-2012 (vector/raster 100 m), Europe, 6-yearly
+Provides land cover change information between the 2006 and 2012 CLC status layers. The dataset has a Minimum Mapping Unit (MMU) of 5 hectares (ha) and is available as vector and as 100 m raster data.
+https://land.copernicus.eu/en/products/corine-land-cover/cha-2006-2012
+---
+CORINE Land Cover Change 2000-2006 (vector/raster 100 m), Europe, 6-yearly
+Provides land cover change information between the 2006 and 2012 CLC status layers. The dataset has a Minimum Mapping Unit (MMU) of 5 hectares (ha) and is available as vector and as 100 m raster data.
+https://land.copernicus.eu/en/products/corine-land-cover/cha-2000-2006
+---
+CORINE Land Cover Change 1990-2000 (vector/raster 100 m), Europe, 6-yearly
+Provides land cover change information between the 1990 and 2000 CLC status layers. The dataset has a Minimum Mapping Unit (MMU) of 5 hectares (ha) and is available as vector and as 100 m raster data.
+https://land.copernicus.eu/en/products/corine-land-cover/cha-1990-2000
+---
+Imperviousness Density 2018 (raster 10 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 10 m and 100 m the sealing density in the range from 0% to 100% for the 2018 reference year.
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-density-2018
+---
+Imperviousness Density 2015 (raster 20 m and 100 m), Europe, 3-yearly
+Provides at pan-European level  in the spatial resolution of 20 m and 100 m the sealing density in the range from 0% to 100% for the 2015 reference year.
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-density-2015
+---
+Imperviousness Density 2012 (raster 20 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m and 100 m the sealing density in the range from 0% to 100% for the 2012 reference year.
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-density-2012
+---
+Imperviousness Density 2009 (raster 20 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m and 100 m the sealing density in the range from 0% to 100% for the 2009 reference year.
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-density-2009
+---
+Imperviousness Density 2006 (raster 20 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m and 100 m the sealing density in the range from 0% to 100% for the 2006 reference year.
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-density-2006
+---
+Imperviousness Change 2015-2018 (raster 20 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m and 100 m the degree of imperviousness change (-100% -- +100%) between the 2015 and 2018 Imperviousness Density status layers.
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-change-2015-2018
+---
+Imperviousness Classified Change 2015-2018 (raster 20 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m the  degree of imperviousness change in the most relevant categories of sealing change (unchanged no sealing, new cover, loss of cover, unchanged sealed, increased sealing, decreased sealing) between the 2015 and 2018 Imperviousness Density status layers.
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-classified-change-2015-2018
+---
+Imperviousness Change 2012-2015 (raster 20 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m and 100 m the degree of imperviousness change (-100% -- +100%) between the 2012 and 2015 Imperviousness Density status layers.
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-change-2012-2015
+---
+Imperviousness Classified Change 2012-2015 (raster 20 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m the degree of imperviousness change in the most relevant categories of sealing change (unchanged no sealing, new cover, loss of cover, unchanged sealed, increased sealing, decreased sealing) between the 2012 and 2015 Imperviousness Density status layers.
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-classified-change-2012-2015
+---
+Imperviousness Change 2009-2012 (raster 20 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m and 100 m the degree of imperviousness change (-100% -- +100%) between the 2009 and 2012 Imperviousness Density status layers.
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-change-2009-2012
+---
+Imperviousness Classified Change 2009-2012 (raster 20 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m the degree of imperviousness change in the most relevant categories of sealing change (unchanged no sealing, new cover, loss of cover, unchanged sealed, increased sealing, decreased sealing) between the 2009 and 2012 Imperviousness Density status layers.
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-classified-change-2009-2012
+---
+Imperviousness Change 2006-2012 (raster 20 m and 100 m), Europe
+Provides at pan-European level in the spatial resolution of 20 m and 100 m the degree of imperviousness change (-100% -- +100%) for the period 2006-2012 and fully aligned with the CORINE Land Cover update cycle.
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-change-2006-2012
+---
+Imperviousness Classified Change 2006-2012 (raster 20 m), Europe
+Provides at pan-European level in the spatial resolution of 20 m the degree of imperviousness change in the most relevant categories of sealing change (unchanged no sealing, new cover, loss of cover, unchanged sealed, increased sealing, decreased sealing) for the period 2006-2012 and fully aligned with the CORINE Land Cover update cycle.
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-classified-change-2006-2012
+---
+Imperviousness Change 2006-2009 (raster 20 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m and 100 m the degree of imperviousness change (-100% -- +100%) between the 2006 and 2009 Imperviousness Density status layers.
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-change-2006-2009
+---
+Imperviousness Classified Change 2006-2009 (raster 20 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m the degree of imperviousness change in the most relevant categories of sealing change (unchanged no sealing, new cover, loss of cover, unchanged sealed, increased sealing, decreased sealing) between the 2006 and 2009 Imperviousness Density status layers.
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-classified-change-2006-2009
+---
+Impervious Built-up 2018 (raster 10 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 10 m binary information (building / no building) within the sealing outline derived from the Imperviousness Density 2018 including the aggregated Share of Built-up layer in the spatial resolution of 100 m showing the percentage of built-up areas across Europe. 
+https://land.copernicus.eu/en/products/high-resolution-layer-impervious-built-up/impervious-built-up-2018
+---
+Dominant Leaf Type 2018 (raster 10 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 10 m information on the dominant leaf type (broadleaved or coniferous) for the 2018 reference year.
+https://land.copernicus.eu/en/products/high-resolution-layer-dominant-leaf-type/dominant-leaf-type-2018
+---
+Dominant Leaf Type 2015 (raster 20 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m information on the dominant leaf type (broadleaved or coniferous) for the 2015 reference year.
+https://land.copernicus.eu/en/products/high-resolution-layer-dominant-leaf-type/dominant-leaf-type-2015
+---
+Dominant Leaf Type 2012 (raster 20 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m information on the dominant leaf type (broadleaved or coniferous) for the 2012 reference year.
+https://land.copernicus.eu/en/products/high-resolution-layer-dominant-leaf-type/dominant-leaf-type-2012
+---
+Dominant Leaf Type Change 2015-2018 (raster 20 m), Europe
+Provides at pan-European level in the spatial resolution of 20 m information on the changes in seven thematic classes (unchanged areas with no tree cover / new broadleaved cover / new coniferous cover / loss of broadleaved cover / loss of coniferous cover / unchanged areas with tree cover / potential change among dominant leaf types) between the 2015 and 2018 reference years.
+https://land.copernicus.eu/en/products/high-resolution-layer-dominant-leaf-type/dominant-leaf-type-change-2015-2018
+---
+Forest Type 2018 (raster 10 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 10 m and 100 m a forest classification for three thematic classes (all non-forest areas / broadleaved forest / coniferous forest) with the agricultural/urban trees removed for the 2018 reference year.
+https://land.copernicus.eu/en/products/high-resolution-layer-forest-type/forest-type-2018
+---
+Forest Type 2015 (raster 20 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m and 100 m a forest classification with three thematic classes (all non-forest areas / broadleaved forest / coniferous forest) for the 2015 reference year. In the 100 m spatial resolution the dataset has the agricultural/urban trees removed.
+https://land.copernicus.eu/en/products/high-resolution-layer-forest-type/forest-type-2015
+---
+Forest Type 2012 (raster 20 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m and 100 m a forest classification with three thematic classes (all non-forest areas / broadleaved forest / coniferous forest) for the 2012 reference year. In the 100 m spatial resolution the dataset has the agricultural/urban trees removed.
+https://land.copernicus.eu/en/products/high-resolution-layer-forest-type/forest-type-2012
+---
+Tree Cover Density 2018 (raster 10 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 10 m and 100 m the level of tree cover density in a range from 0% to100% for the 2018 reference year.
+https://land.copernicus.eu/en/products/high-resolution-layer-tree-cover-density/tree-cover-density-2018
+---
+Tree Cover Density 2015 (raster 20 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m and 100 m the level of tree cover density in a range from 0% to100% for the 2015 reference year.
+https://land.copernicus.eu/en/products/high-resolution-layer-tree-cover-density/tree-cover-density-2015
+---
+Tree Cover Density 2012 (raster 20 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m and 100 m the level of tree cover density in a range from 0% to100% for the 2012 reference year.
+https://land.copernicus.eu/en/products/high-resolution-layer-tree-cover-density/tree-cover-density-2012
+---
+Tree Cover Change Mask 2015-2018 (raster 20 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m information on changes in four thematic classes (unchanged areas with no tree cover / new tree cover / loss of tree cover / unchanged areas with tree cover) between the 2015 and 2018 reference years.
+https://land.copernicus.eu/en/products/high-resolution-layer-tree-cover-density/tree-cover-change-mask-2015-2018
+---
+Tree Cover Change Mask 2012-2015 (raster 20 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m information on changes in four thematic classes (unchanged areas with no tree cover / new tree cover / loss of tree cover / unchanged areas with tree cover) between the 2012 and 2015 reference years.
+https://land.copernicus.eu/en/products/high-resolution-layer-tree-cover-density/tree-cover-change-mask-2012-2015
+---
+Grassland 2018 (raster 10 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 10 m and 100 m a basic land cover classification with two thematic classes (grassland / non-grassland) for the 2018 reference year.
+https://land.copernicus.eu/en/products/high-resolution-layer-grassland/grassland-2018
+---
+Grassland 2015 (raster 20 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m and 100 m a basic land cover classification with two thematic classes (grassland / non-grassland) for the 2015 reference year.
+https://land.copernicus.eu/en/products/high-resolution-layer-grassland/grassland-2015
+---
+Grassland Change 2015-2018 (raster 20 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m information on changes in grassland vegetation cover between the 2105 and 2018 reference years.
+https://land.copernicus.eu/en/products/high-resolution-layer-grassland/grassland-change-2015-2018
+---
+Water and Wetness status 2018 (raster 10 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 10 m and 100 m the occurrence of water and wet surfaces over the period from 2012 to 2018.
+https://land.copernicus.eu/en/products/high-resolution-layer-water-and-wetness/water-and-wetness-status-2018
+---
+Water and Wetness status 2015 (raster 20 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 20 m and 100 m the occurrence of water and wet surfaces over the period from 2009 to 2015.
+https://land.copernicus.eu/en/products/high-resolution-layer-water-and-wetness/water-and-wetness-status-2015
+---
+Small Woody Features 2018 (vector/raster 5 m and 100 m), Europe, 3-yearly
+Provides at pan-European level information on information on linear structures such as hedgerows, as well as patches of woody features for the 2018 reference year. The data are available in vector format and as 5 m and aggregated 100 m raster files.
+https://land.copernicus.eu/en/products/high-resolution-layer-small-woody-features/small-woody-features-2018
+---
+Small Woody Features 2015 (vector/raster 5 m and 100 m), Europe, 3-yearly
+Provides at pan-European level information on information on linear structures such as hedgerows, as well as patches of woody features for the 2015 reference year. The data are available in vector format and as 5 m and aggregated 100 m raster files.
+https://land.copernicus.eu/en/products/high-resolution-layer-small-woody-features/small-woody-features-2015
+---
+Coastal Zones Land Cover/Land Use 2018 (vector), Europe, 6-yearly
+Provides a detailed land cover and land use information for 71 thematic classes for areas along the European coastline for the 2018 reference year. The dataset has a Minimum Mapping Unit (MMU) of 0.5 ha and a Minimum Mapping Width (MMW) of 10 m and is available as vector data.
+https://land.copernicus.eu/en/products/coastal-zones/coastal-zones-2018
+---
+Coastal Zones Land Cover/Land Use 2012 (vector), Europe, 6-yearly
+Provides a detailed land cover and land use information for 71 thematic classes for areas along the European coastline for the 2012 reference year. The dataset has a Minimum Mapping Unit (MMU) of 0.5 ha and a Minimum Mapping Width (MMW) of 10 m and is available as vector data.
+https://land.copernicus.eu/en/products/coastal-zones/coastal-zones-2012
+---
+Coastal Zones Land Cover/Land Use Change 2012-2018 (vector), Europe, 6-yearly
+Provides a detailed land cover and land use change information for 71 thematic classes for areas along the European coastline between the 2012 and 2018 reference years. The dataset has a Minimum Mapping Unit (MMU) of 0.5 ha and a Minimum Mapping Width (MMW) of 10 m and is available as vector data.
+https://land.copernicus.eu/en/products/coastal-zones/coastal-zones-change-2012-2018
+---
+N2K Land Cover/Land Use 2018 (vector), Europe, 6-yearly
+Provides detailed land cover and land use information for 55 thematic classes in selected Natura2000 sites for the 2018 reference year. The dataset has a Minimum Mapping Unit (MMU) of 0.5 ha and a Minimum Mapping Width (MMW) of 10 m and is available as vector data.
+https://land.copernicus.eu/en/products/n2k/n2k-2018
+---
+N2K Land Cover/Land Use 2012 (vector), Europe, 6-yearly
+Provides detailed land cover and land use information for 55 thematic classes in selected Natura2000 sites for the 2012 reference year. The dataset has a Minimum Mapping Unit (MMU) of 0.5 ha and a Minimum Mapping Width (MMW) of 10 m and is available as vector data.
+https://land.copernicus.eu/en/products/n2k/n2k-2012
+---
+N2K Land Cover/Land Use 2006 (vector), Europe, 6-yearly
+Provides detailed land cover and land use information for 55 thematic classes in selected Natura2000 sites for the 2006 reference year. The dataset has a Minimum Mapping Unit (MMU) of 0.5 ha and a Minimum Mapping Width (MMW) of 10 m and is available as vector data.
+https://land.copernicus.eu/en/products/n2k/n2k-2006
+---
+N2K Land Cover/Land Use Change 2012-2018 (vector), Europe, 6-yearly
+Provides information on land cover and land use changes for 55 thematic classes in selected Natura2000 sites between the 2012 and 2018 reference years. The dataset has a Minimum Mapping Unit (MMU) of 0.5 ha and a Minimum Mapping Width (MMW) of 10 m and is available as vector data.
+https://land.copernicus.eu/en/products/n2k/n2k-change-2012-2018
+---
+N2K Land Cover/Land Use Change 2006-2012 (vector), Europe, 6-yearly
+Provides information on land cover and land use changes for 55 thematic classes in selected Natura2000 sites between the 2006 and 2012 reference years. The dataset has a Minimum Mapping Unit (MMU) of 0.5 ha and a Minimum Mapping Width (MMW) of 10 m and is available as vector data.
+https://land.copernicus.eu/en/products/n2k/n2k-change-2006-2012
+---
+Riparian Zones Land Cover/Land Use 2018 (vector), Europe, 6-yearly
+Provides detailed land cover and land use information for 55 thematic classes in a variable buffer zone of selected rivers across Europe for the 2018 reference year. The dataset has a Minimum Mapping Unit (MMU) of 0.5 ha and a Minimum Mapping Width (MMW) of 10 m and is available as vector data.
+https://land.copernicus.eu/en/products/riparian-zones/rz-land-cover-land-use-2018
+---
+Riparian Zones Land Cover/Land Use 2012 (vector), Europe, 6-yearly
+Provides detailed land cover and land use information for 55 thematic classes in a variable buffer zone of selected rivers across Europe for the 2012 reference year. The dataset has a Minimum Mapping Unit (MMU) of 0.5 ha and a Minimum Mapping Width (MMW) of 10 m and is available as vector data.
+https://land.copernicus.eu/en/products/riparian-zones/rz-land-cover-land-use-2012
+---
+Riparian Zones Land Cover/Land Use Change 2012-2018 (vector), Europe, 6-yearly
+Provides information on land cover and land use changes for 55 thematic classes in a variable buffer zone of selected rivers across Europe between the 2012 and 2018 reference years. The dataset has a Minimum Mapping Unit (MMU) of 0.5 ha and a Minimum Mapping Width (MMW) of 10 m and is available as vector data.
+https://land.copernicus.eu/en/products/riparian-zones/rz-land-cover-land-use-change-2012-2018
+---
+Urban Atlas Land Cover/Land Use 2018 (vector), Europe, 6-yearly
+Provides land cover and land use data with the integrated population estimates in 788 Functional Urban Areas (FUA) with more than 50,000 inhabitants in EEA38 countries and the United Kingdom for the 2018 reference year. The dataset maps land cover and land use for 17 urban classes with the Minimum Mapping Unit (MMU) of 0.25 ha and for 10 rural classes with the MMU of 1 ha and is available as vector data.
+https://land.copernicus.eu/en/products/urban-atlas/urban-atlas-2018
+---
+Urban Atlas Land Cover/Land Use 2012 (vector), Europe, 6-yearly
+Provides detailed land cover and land use data with the integrated population estimates in 785 Functional Urban Areas (FUA) with more than 50,000 inhabitants in EEA38 countries and the United Kingdom for the 2012 reference year. The dataset maps land cover and land use for 17 urban classes with the Minimum Mapping Unit (MMU) of 0.25 ha and for 10 rural classes with the MMU of 1 ha and is available as vector data.
+https://land.copernicus.eu/en/products/urban-atlas/urban-atlas-2012
+---
+Urban Atlas Land Cover/Land Use 2006 (vector), Europe, 6-yearly
+Provides detailed land cover and land use data in 319 Functional Urban Areas (FUA) with more than 100,000 inhabitants in EU member states for the 2006 reference year. The dataset maps land cover and land use for 17 urban classes with the Minimum Mapping Unit (MMU) of 0.25 ha and for 2 rural classes with the MMU of 1 ha and is available as vector data.
+https://land.copernicus.eu/en/products/urban-atlas/urban-atlas-2006
+---
+Urban Atlas Land Cover/Land Use Change 2012-2018 (vector), Europe, 6-yearly
+Provides land cover and land use change data between the 2012 and 2018 Urban Atlas layers, only for the Functional Urban Areas (FUA) present in both status layers. The Minimum Mapping Unit (MMU) varies from 0.1 ha to 0.25 ha depending on the class. The Minimum Mapping Width (MMW) is 10 m and is available as vector data.
+https://land.copernicus.eu/en/products/urban-atlas/urban-atlas-change-2012-2018
+---
+Urban Atlas Land Cover/Land Use Change 2006-2012 (vector), Europe, 6-yearly
+Provides land cover and land use change data between the 2006 and 2012 Urban Atlas layers, only for the Functional Urban Areas (FUA) present in both status layers.  The Minimum Mapping Unit (MMU) varies from 0.1 ha to 0.25 ha depending on the class. The Minimum Mapping Width (MMW) is 10 m and is available as vector data.
+https://land.copernicus.eu/en/products/urban-atlas/urban-atlas-change-2006-2012
+---
+Urban Atlas Street Tree Layer 2018 (vector), Europe, 6-yearly
+Provides a separate layer of Urban Atlas 2018 showing contiguous rows or patches of trees covering 500 m² or more and with a Minimum Mapping Width (MMW) of 10 m over "Artificial surfaces" (nomenclature class 1) inside each Functional Urban Area (FUA). The dataset is available as vector data.
+https://land.copernicus.eu/en/products/urban-atlas/street-tree-layer-stl-2018
+---
+Urban Atlas Street Tree Layer 2012 (vector), Europe, 6-yearly
+A separate layer of Urban Atlas 2012 providing contiguous rows or patches of trees covering 500 m² or more and with a Minimum Mapping Width (MMW) of 10 m over "Artificial surfaces" (nomenclature class 1) inside each Functional Urban Area (FUA). The dataset is available as vector data.
+https://land.copernicus.eu/en/products/urban-atlas/street-tree-layer-stl-2012
+---
+Urban Atlas Building Height 2012 (raster 10 m), Europe
+Provides height information in the spatial resolution of 10 m for core urban areas in 870 cities across Europe for the 2012 reference year. The dataset is available as raster data.
+https://land.copernicus.eu/en/products/urban-atlas/building-height-2012
+---
+Reference Land Cover (vector), Hot Spots globally
+Reference Land Cover vector data generated over Key Landscape for Conservation areas (KLC) in Africa, Indonesia and Caribbean. The KLC included in the dataset are the following: Caribbean (CAR_01), Comoe-Mole (WAF_05), Cross River-Takamanda-Mt Cameroon-Korup (CAF_01), Garamba-Lantoto-Bili-Uere-Chinko-Southern (CAF_05), Great Limpopo (SAF_02), Grand Virunga (CAF_02), Kundelungu-Upemba (CAF_11), Lomami (CAF_15), Luangwa (SAF_14_15), Madagascar Forests (SAF_21), Manovo-Gounda-St Floris-Bamingui (CAF_06), Mbam Djerem (CAF_16), Niassa-Selous (EAF_04), Salonga (CAF_07), Tai-Sapo (WAF_10), Timor Leste (PAC_01), WAPOK (WAF_04) and Yangambi (CAF_99).
+https://land.copernicus.eu/en/products/lclcc-hot-spots/present_land_cover
+---
+Land Cover Change (vector), Hot Spots globally
+Land Cover Change vector data generated over Key Landscape for Conservation areas (KLC) in Africa, Indonesia and Caribbean. The KLC included in the dataset are the following: Caribbean (CAR_01), Comoe-Mole (WAF_05), Cross River-Takamanda-Mt Cameroon-Korup (CAF_01), Garamba-Lantoto-Bili-Uere-Chinko-Southern (CAF_05), Great Limpopo (SAF_02), Grand Virunga (CAF_02), Kundelungu-Upemba (CAF_11), Lomami (CAF_15), Luangwa (SAF_14_15), Madagascar Forests (SAF_21), Manovo-Gounda-St Floris-Bamingui (CAF_06), Mbam Djerem (CAF_16), Niassa-Selous (EAF_04), Salonga (CAF_07), Tai-Sapo (WAF_10), Timor Leste (PAC_01), WAPOK (WAF_04) and Yangambi (CAF_99).
+https://land.copernicus.eu/en/products/lclcc-hot-spots/land_cover_change
+---
+Key Landscapes for Conservation borders (vector), Hot Spots globally
+Key Landscape for Conservation areas (KLC) in Africa, Indonesia and Caribbean. The KLC included in the dataset are the following: Caribbean (CAR_01), Comoe-Mole (WAF_05), Cross River-Takamanda-Mt Cameroon-Korup (CAF_01), Garamba-Lantoto-Bili-Uere-Chinko-Southern (CAF_05), Great Limpopo (SAF_02), Grand Virunga (CAF_02), Kundelungu-Upemba (CAF_11), Lomami (CAF_15), Luangwa (SAF_14_15), Madagascar Forests (SAF_21), Manovo-Gounda-St Floris-Bamingui (CAF_06), Mbam Djerem (CAF_16), Niassa-Selous (EAF_04), Salonga (CAF_07), Tai-Sapo (WAF_10), Timor Leste (PAC_01), WAPOK (WAF_04) and Yangambi (CAF_99).
+https://land.copernicus.eu/en/products/lclcc-hot-spots/klc_borders
+---
+Protected Areas in Key Landscapes for Conservation borders 2023 (vector), global
+The High Resolution Hot Spots Monitoring activity is providing detailed land information on specific areas of interest, answering to ad-hoc requests. It concentrates mainly on the domain of the sustainable management of natural resources, with an initial focus on Protected Areas (PA) or Key Landscapes for Conservation (KLC).
+https://land.copernicus.eu/en/products/lclcc-hot-spots/protected-areas-in-key-landscapes-for-conservation-borders
+---
+Satellite images (raster 30 m), Hot Spots globally
+Satellite images used to map the Land Cover in the Key Landscape for Conservation areas (KLC) in Africa, Indonesia and Caribbean. 
+https://land.copernicus.eu/en/products/lclcc-hot-spots/satellite_images
+---
+Surface Soil Moisture 2014-present (raster 1 km), Europe, daily – version 1
+Provides information on the relative water content of the top few centimeters soil, describing how wet or dry the soil is in its topmost layer, expressed in percent saturation. Daily observations are available for the continental Europe in the spatial resolution of 1 km and with the temporal extent from October 2014 to present.
+https://land.copernicus.eu/en/products/soil-moisture/daily-surface-soil-moisture-v1.0
+---
+Soil Water Index 2015-present (raster 1 km), Europe, daily – version 1
+Quantifies the moisture condition at various depths in the soil. Daily observations are available for the continental Europe in the spatial resolution of 1 km and with the temporal extent from January 2015 to present.
+https://land.copernicus.eu/en/products/soil-moisture/daily-soil-water-index-europe-v1-0-1km
+---
+Soil Water Index  2007-present (raster 12.5 km), global, daily – version 3
+Provides daily updates on the moisture conditions in different soil layers. The data are available over the globe at the spatial resolution of 0.1° and with the temporal extent from January 2007 to present.
+https://land.copernicus.eu/en/products/soil-moisture/daily-soil-water-index-global-v3-0-12-5km
+---
+Soil Water Index - Static Layers (raster 12.5 km), global, daily – version 3
+Provides static masks and ancillary files that aid in the analysis of the daily Surface Water Index, 10-daily Surface Water Index and Surface Water Index time series products.
+https://land.copernicus.eu/en/products/soil-moisture/soil-water-index-static-layers-v3-0-12-5-km
+---
+Soil Water Index 2007-present (raster 12.5 km), global, 10-daily – version 3
+Averages the daily Soil Water Index product over 10 days. The data are produced every 10 days over the globe at the spatial resolution of 0.1° and with the temporal extent from January 2007 to present.
+https://land.copernicus.eu/en/products/soil-moisture/10-daily-soil-water-index-global-v3-0-12-5-km
+---
+Fractional Snow Cover 2016-present (raster 20 m), Europe, daily
+Provides at pan-European level according to  Sentinel-2 revisit (5 days) and in near real time daily values of the snow fraction as the percentage at the top of canopy and on ground. The data are available at 20 m x 20 m spatial resolution with the temporal extent from 2016 to present.
+https://land.copernicus.eu/en/products/snow/fractional-snow-cover
+---
+Gap-filled Fractional Snow Cover 2016-present (raster 60 m), Europe, daily
+Provides at pan-European level, at each release of the Fractional Snow Cover, Wet/Dry Snow and SAR Wet Snow datasets and in near real time, daily values of the the extent of the snow cover per pixel as the percentage. The data are available at 60 m x 60 m spatial resolution with the temporal extent from 2016 to present.
+https://land.copernicus.eu/en/products/snow/high-resolution-gap-filled-fractional-snow-cover
+---
+Persistent Snow Area 2016-present (raster 20 m), Europe, yearly
+Provides at pan-European level and on annual basis the extent of persistent snow cover.  The annual update is normally released at the end of the hydrological year. The data are available at 20 m x 20 m spatial resolution with the temporal extent from 2016 to present.
+https://land.copernicus.eu/en/products/snow/high-resolution-persistent-snow-area
+---
+SAR Wet Snow 2016-present (raster 60 m), Europe, daily
+Provides at pan-European level according to Sentinel-1 revisit time (6 days) and in near real time information on the wet snow extent and the snow free or patchy snow or dry snow extent in high-mountain areas. The data are available at 60 m x 60 m spatial resolution with the temporal extent from September 2016 to present.
+https://land.copernicus.eu/en/products/snow/high-resolution-sar-wet-snow
+---
+Snow Cover Extent 2017-present (raster 500 m), Europe, daily – version 1
+Provides for Europe daily updates of the fraction of snow cover on the ground (also in forested areas) per pixel in percentage (0% – 100%). The data is available in near real time in the spatial resolution of 500 m and with the temporal extent from March 2017 to present.
+https://land.copernicus.eu/en/products/snow/snow-cover-extent-europe-v1-0-500m
+---
+Snow Cover Extent 2018-present (raster 1 km), Northern Hemisphere, daily – version 1
+Provides for Northern Hemisphere daily maps of the fraction of snow cover on ground (also in forested areas) per pixel in percentage (0% – 100%). The data is available in near real time with a pixel spacing of about 1 km and with the temporal extent from January 2018 to present.
+https://land.copernicus.eu/en/products/snow/snow-cover-extent-northern-hemisphere-v1-0-1km
+---
+Snow Water Equivalent 2006-present (raster 5 km), Northern Hemisphere, daily – version 1
+Provides for the Northern Hemisphere daily updates of the equivalent amount of liquid water stored in the snow pack. The data is available in near real time in the spatial resolution of 5 km and with the temporal extent from January 2006 to present.
+https://land.copernicus.eu/en/products/snow/snow-water-equivalent-v1-0-5km
+---
+Wet/Dry Snow 2016-present (raster 60 m), Europe, daily
+Provides at pan-European level according to Sentinel-1 revisit time (6 days) and in near real time daily binary differentiation of wet and dry snow and identifies patchy snow or snow free areas. The data are available at 60 m  x 60 m spatial resolution with the temporal extent from September 2016 to present.
+https://land.copernicus.eu/en/products/snow/high-resolution-wet-dry-snow
+---
+Land Surface Temperature 2010-2021 (raster 5 km), global, hourly – version 1
+Provides hourly land surface temperature from geostationary sensors observations. The data are available at global scale in the spatial resolution of about 5 km and covers the period from July 2010 to January 2021
+https://land.copernicus.eu/en/products/temperature-and-reflectance/hourly-land-surface-temperature-global-v1-0-5km
+---
+Land Surface Temperature 2021-present (raster 5 km), global, hourly – version 2
+Provides hourly land surface temperature from geostationary sensors observations. The data are available at global scale in the spatial resolution of about 5 km and covers the period from January 2021 to January 2023 with version 2.0 and from January 2023 onwards with version 2.1.
+https://land.copernicus.eu/en/products/temperature-and-reflectance/hourly-land-surface-temperature-global-v2-0-5km
+---
+Land Surface Temperature Daily Cycle 2017-2021 (raster 5 km), global, 10-daily – version 1
+Provides a statistical overview of the land surface temperature daily cycle for each 10-day compositing period and every geostationary sensor image pixel. The data are available at global scale in the spatial resolution of about 5 km and covers the period from January 2017 to January 2021
+https://land.copernicus.eu/en/products/temperature-and-reflectance/10-daily-land-surface-temperature-daily-cycle-global-v1-0-5km
+---
+Land Surface Temperature Daily Cycle 2021-present (raster 5 km), global, 10-daily – version 2
+Provides a statistical overview of the land surface temperature daily cycle for each 10-day compositing period and every geostationary sensor image pixel. The data are available at global scale in the spatial resolution of about 5 km and covers the period from January 2021 to January 2023 with version 2.0 and from January 2023 onwards with version 2.1.
+https://land.copernicus.eu/en/products/temperature-and-reflectance/10-daily-land-surface-temperature-daily-cycle-global-v2-0-5km
+---
+Land Surface Temperature (Synthesis and Thermal Condition Index)  2017-2021 (raster 5 km), global, 10-daily – version 1
+Provides a statistical overview of the land surface temperature over each 10-day compositing period regardless of any specific hour and every geostationary sensor image pixel. The data are available at global scale in the spatial resolution of about 5 km and covers the period from January 2017 to January 2021.
+https://land.copernicus.eu/en/products/temperature-and-reflectance/10-daily-land-surface-temperature-thermal-condition-index-global-v1-0-5km
+---
+Land Surface Temperature (Synthesis and Thermal Condition Index) 2021-present (raster 5 km), global, 10-daily – version 2
+Provides a statistical overview of the land surface temperature over each 10-day compositing period regardless of any specific hour and every geostationary sensor image pixel. The data are available at global scale in the spatial resolution of about 5 km and covers the period from January 2021 to January 2023 with version 2.0 and from January 2023 onwards with version 2.1.
+https://land.copernicus.eu/en/products/temperature-and-reflectance/10-daily-land-surface-temperature-thermal-condition-index-global-v2-0-5km
+---
+Lake Surface Water Temperature 2016-present (raster 1 km), global, 10-daily, Near Real Time – version 1
+Provides the temperature of the water at the lake surface. The near real time observations (every 10 days) are available at global scale at spatial resolution of ~1 km and with the temporal extent from 2016 to present.
+https://land.copernicus.eu/en/products/temperature-and-reflectance/lake-surface-water-temperature-near-real-time-v1-0-1km
+---
+Lake Surface Water Temperature 2002-2012 (raster 1 km), global, 10-daily, Offline – version 1
+Provides the temperature of the water at the lake surface. The LSWT observations (every 10 days) are available at global scale at spatial resolution of ~1 km and with the temporal extent from 2002 to 2012.
+https://land.copernicus.eu/en/products/temperature-and-reflectance/lake-surface-water-temperature-offline-1km
+---
+Fraction of Absorbed Photosynthetically Active Radiation 2016-present (raster 10 m), Europe, daily
+Provides at pan-European level and in near real time daily updates of the fraction of the solar radiation absorbed by live leaves for the photosynthesis activity. The data are available at 10 m x 10 m spatial resolution with the temporal extent from October 2016 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-fraction-of-absorbed-photosynthetically-active-radiation
+---
+Leaf Area Index 2016-present (raster 10 m), Europe, daily
+Defined as half of the total area of green elements of the canopy per unit horizontal ground area daily updates of Leaf Area Index are provided at pan-European level and in near real time. The data are available at 10 m x 10 m spatial resolution with the temporal extent from October 2016 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-leaf-area-index
+---
+Normalised Difference Vegetation Index 2016-present (raster 10 m), Europe, daily
+Describes the difference between visible and near infrared reflectance of vegetation cover.  Daily updates of Normalised Difference Vegetation Index are provided at pan-European level and in near real time. The data are available at 10 m x 10 m spatial resolution with the temporal extent from October 2016 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-normalised-difference-vegetation-index
+---
+Plant Phenology Index 2016-present (raster 10 m), Europe, daily
+It is s a physically based vegetation index for improved monitoring of plant phenology. Daily updates of Plant Phenology Index are provided at pan-European level and in near real time. The data are available at 10 m x 10 m spatial resolution with the temporal extent from October 2016 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-plant-phenology-index
+---
+Vegetation Indices Quality Flag 2016-present (raster 10 m), Europe, daily
+Quality indicator assisting users with the screening of clouds, shadows from clouds and topography, other dark areas, snow and water surfaces in their analysis of the four related near real time datasets: the Plant Phenology Index, the Normalized Difference Vegetation Index, the Leaf Area Index and the Fraction of Absorbed Photosynthetically Active Radiation. Daily updates of Vegetation Indices Quality Flag are provided at pan-European level and in near real time. The data are available at 10 m x 10 m spatial resolution with the temporal extent from October 2016 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-vegetation-indices-quality-flag
+---
+Plant Phenology Index Seasonal Trajectories 2017-present (raster 10 m), Europe, 10-daily
+Provides a filtered time series of Plant Phenology Index, with regular 10-day time step. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-plant-phenology-index-seasonal-trajectories
+---
+Seasonal Trajectories Quality Flag 2017-present (raster 10 m), Europe, 10-daily
+Indicates the quality of the Plant Phenology Index seasonal trajectory computation, in the form of a confidence level. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-seasonal-trajectories-quality-flag
+---
+End-of-season Date 2017-present (raster 10 m), Europe, yearly
+Provides the date when the vegetation growing season ends in the time profile of the Plant Phenology Index. The end-of-season occurs, by definition, when the Plant Phenology Index value reaches 15% of the season amplitude during the green-down period. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-end-of-season-date
+---
+End-of-season Value 2017-present (raster 10 m), Europe, yearly
+Provides the value of the Plant Phenology Index at the end of the vegetation growing season. The data at pan-European level are updated in the first quarter of each year. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-end-of-season-value
+---
+Season Amplitude 2017-present (raster 10 m), Europe, yearly
+Provides the difference between the maximum and minimum Plant Phenology Index values reached during the season. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-season-amplitude
+---
+Season Maximum Value 2017-present (raster 10 m), Europe, yearly
+Provides the maximum (peak) value that the Plant Phenology Index reaches during the vegetation growing season. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-season-maximum-value
+---
+Season Maximum Date 2017-present (raster 10 m), Europe, yearly
+Provides the date in the vegetation growing season when the maximum Plant Phenology Index value is reached. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-season-maximum-date
+---
+Season Minimum Value 2017-present (raster 10 m), Europe, yearly
+ Provides the average Plant Phenology Index value of the minima before the growing season. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-season-minimum-value
+---
+Season Length 2017-present (raster 10 m), Europe, yearly
+Provides the number of days between the start and end dates of the vegetation growing season in the time profile of the Plant Phenology Index. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-season-length
+---
+Start-of-season Date 2017-present (raster 10 m), Europe, yearly
+Marks the date when the vegetation growing season starts in the time profile of the Plant Phenology Index. The start-of-season occurs, by definition, when the Plant Phenology Index value reaches 25% of the season amplitude during the green-up period. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-start-of-season-date
+---
+Slope of the Green-up Period 2017-present (raster 10 m), Europe, yearly
+Provides the rate of change in the values of the Plant Phenology Index at the day when the vegetation growing season starts. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-slope-of-green-up-period
+---
+Slope of the Green-down Period 2017-present (raster 10 m), Europe, yearly
+Provides the rate of change in the values of the Plant Phenology Index at the day when the vegetation growing season ends. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-slope-of-green-down-period
+---
+Start-of-season Value 2017-present (raster 10 m), Europe, yearly
+Provides the value of the Plant Phenology Index at the start of the vegetation growing season. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-start-of-season-value
+---
+Seasonal Productivity 2017-present (raster 10 m), Europe, yearly
+The growing season integral that is computed as the sum of all daily Plant Phenology Index values between the dates of the season start and end, minus their base level value. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-seasonal-productivity
+---
+Total Productivity 2017-present (raster 10 m), Europe, yearly
+The growing season integral computed as the sum of all daily Plant Phenology Index values between the dates of the season start and end. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-total-productivity
+---
+Vegetation Phenology and Productivity Parameters Quality Flag 2017-present (raster 10 m), Europe, yearly
+Indicates the quality of the pan-European Vegetation Phenology and Productivity Parameters, in the form of a confidence level. The data at pan-European level are updated in the first quarter of each year. The data are available at 10 m x 10 m spatial resolution with the temporal extent from 2017 to present.
+https://land.copernicus.eu/en/products/vegetation/high-resolution-vegetation-phenology-parameters-quality-flag
+---
+Normalised Difference Vegetation Index 2014-2020 (raster 300 m), global, 10-daily – version 1
+NDVI is an indicator of the greenness of the biomes. Every 10-days estimates are available at global scale in the spatial resolution of about 300 m from 2014 to June 2020.
+https://land.copernicus.eu/en/products/vegetation/normalized-difference-vegetation-index-300m-v1.0
+---
+Normalised Difference Vegetation Index 2020-present (raster 300 m), global, 10-daily – version 2
+NDVI is an indicator of the greenness of the biomes. Every 10-days estimates are available in near real time at global scale in the spatial resolution of about 300 m from July 2020 to the present. 
+https://land.copernicus.eu/en/products/vegetation/normalised-difference-vegetation-index-v2-0-300m
+---
+Normalised Difference Vegetation Index 1998-2020 (raster 1 km), global, 10-daily – version 2
+NDVI is an indicator of the greenness of the biomes. Every 10-days estimates are available at global scale in the spatial resolution of about 1 km from April 1998 to 2013 based upon SPOT/VEGETATION data and from 2014 to 2020 based upon PROBA-V data.
+https://land.copernicus.eu/en/products/vegetation/normalised-difference-vegetation-index-v2-0-1km
+---
+Normalised Difference Vegetation Index 1999-2020 (raster 1 km), global, 10-daily – version 3
+NDVI is an indicator of the greenness of the biomes. Every 10-days estimates are available at global scale in the spatial resolution of about 1 km from 1999 to 2013 based upon SPOT/VEGETATION data and from 2014 to June 2020 based upon PROBA-V data.
+https://land.copernicus.eu/en/products/vegetation/normalised-difference-vegetation-index-v3-0-1km
+---
+Normalised Difference Vegetation Index (Long Term Statistics) 1999-2017 (raster 1 km), global, 10-daily – version 2
+Based upon SPOT/VEGETATION and PROBA-V NDVI 1km version 2, long-term statistics include the minimum, median, maximum, mean, standard deviation and the number of observations over the 19-years period 1999-2017.
+https://land.copernicus.eu/en/products/vegetation/normalised-difference-vegetation-index-long-term-statistics-v2-0-1km
+---
+Leaf Area Index 2014-present (raster 300 m), global, 10-daily – version 1
+Defined as half the total area of green elements of the canopy per unit horizontal ground area. Every 10-days estimates are available in near real time at global scale in the spatial resolution of about 300 m from January 2014 to June 2020 based upon PROBA-V data with version 1.0 and from July 2020 onwards based upon Sentinel-3/OLCI data with version 1.1.
+https://land.copernicus.eu/en/products/vegetation/leaf-area-index-300m-v1.0
+---
+Leaf Area Index 1999-2020 (raster 1 km), global, 10-daily – version 1
+Defined as half the total area of green elements of the canopy per unit horizontal ground area. Every 10-days estimates are available at global scale in the spatial resolution of about 1 km covering the period from 1999 to May 2014 in version 1.4 from SPOT/VEGETATION data and from June 2014 to June 2020 in version 1.5 from PROBA-V data.
+https://land.copernicus.eu/en/products/vegetation/leaf-area-index-v1-0-1km
+---
+Leaf Area Index 1999-2020 (raster 1 km), global, 10-daily – version 2
+Defined as half the total area of green elements of the canopy per unit horizontal ground area. Every 10-days estimates are available at global scale in the spatial resolution of about 1 km covering the period from 1999 to June 2020 from SPOT/VEGETATION and PROBA-V data.
+https://land.copernicus.eu/en/products/vegetation/leaf-area-index-v2-0-1km
+---
+Fraction of Green Vegetation Cover 2014-present (raster 300 m), global, 10-daily – version 1
+Corresponds to the fraction of ground covered by green vegetation. It quantifies the spatial extent of the vegetation. Every 10-days estimates are available in near real time at global scale in the spatial resolution of about 300 m from January 2014 to June 2020 based upon PROBA-V data with version 1.0 and from July 2020 onwards based upon Sentinel-3/OLCI data with version 1.1.
+https://land.copernicus.eu/en/products/vegetation/fraction-of-green-vegetation-cover-v1-0-300m
+---
+Fraction of Green Vegetation Cover 1999-2020 (raster 1 km), global, 10-daily – version 1
+Corresponds to the fraction of ground covered by green vegetation. It quantifies the spatial extent of the vegetation. Every 10-days estimates are available at global scale in the spatial resolution of about 1 km covering the period from 1999 to May 2014 in version 1.4 from SPOT/VEGETATION data and from June 2014 to June 2020 in version 1.5 from PROBA-V data.
+https://land.copernicus.eu/en/products/vegetation/fraction-of-green-vegetation-cover-global-v1-0-1km
+---
+Fraction of Green Vegetation Cover 1999-2020 (raster 1 km), global, 10-daily – version 2
+Corresponds to the fraction of ground covered by green vegetation. It quantifies the spatial extent of the vegetation. Every 10-days estimates are available at global scale in the spatial resolution of about 1 km covering the period from 1999 to June 2020 from SPOT/VEGETATION and PROBA-V data.
+https://land.copernicus.eu/en/products/vegetation/fraction-of-green-vegetation-cover-v2-0-1km
+---
+Fraction of Absorbed Photosynthetically Active Radiation 2014-present (raster 300 m), global, 10-daily – version 1
+Quantifies the fraction of the solar radiation absorbed by live plants for photosynthesis. Every 10-days estimates are available in near real time at global scale in the spatial resolution of about 300 m from January 2014 to June 2020 based upon PROBA-V data with version 1.0 and from July 2020 onwards based upon Sentinel-3/OLCI data with version 1.1.
+https://land.copernicus.eu/en/products/vegetation/fraction-of-absorbed-photosynthetically-active-radiation-v1-0-300m
+---
+Fraction of Absorbed Photosynthetically Active Radiation 1999-2020 (raster 1 km), global, 10-daily – version 1
+Quantifies the fraction of the solar radiation absorbed by live plants for photosynthesis. Every 10-days estimates are available at global scale in the spatial resolution of about 1 km covering the period from 1999 to May 2014 in version 1.4 from SPOT/VEGETATION data and from June 2014 to June 2020 in version 1.5 from PROBA-V data.
+https://land.copernicus.eu/en/products/vegetation/fraction-of-absorbed-photosynthetically-active-radiation-global-v1-0-1km
+---
+Fraction of Absorbed Photosynthetically Active Radiation 1999-2020 (raster 1 km), global, 10-daily – version 2
+Quantifies the fraction of the solar radiation absorbed by live plants for photosynthesis. Every 10-days estimates are available at global scale in the spatial resolution of about 1 km covering the period from 1999 to June 2020 from SPOT/VEGETATION and PROBA-V data.
+https://land.copernicus.eu/en/products/vegetation/fraction-of-absorbed-photosynthetically-active-radiation-v2-0-1km
+---
+Dry Matter Productivity 2014-present (raster 300 m), global, 10-daily – version 1
+Represents the overall growth rate or dry biomass increase of the vegetation and is directly related to ecosystem Net Primary Production (NPP), however with units customized for agro-statistical purposes (kg/ha/day). Every 10-days estimates are available in near real time at global scale in the spatial resolution of about 300 m from January 2014 to June 2020 based upon PROBA-V data with version 1.0 and from July 2020 onwards based upon Sentinel-3/OLCI data with version 1.1.
+https://land.copernicus.eu/en/products/vegetation/dry-matter-productivity-v1-0-300m
+---
+Gross Dry Matter Productivity 2014-present (raster 300 m), global, 10-daily – version 1
+Equivalent to Gross Primary Production (GPP). Every 10-days estimates are available in near real time at global scale in the spatial resolution of about 300 m from January 2014 to June 2020 based upon PROBA-V data with version 1.0 and from July 2020 onwards based upon Sentinel-3/OLCI data with version 1.1.
+https://land.copernicus.eu/en/products/vegetation/gross-dry-matter-productivity-v1-0-300m
+---
+Dry Matter Productivity 1999-2020 (raster 1 km), global, 10-daily – version 2
+Represents the overall growth rate or dry biomass increase of the vegetation and is directly related to ecosystem Net Primary Production (NPP), however with units customized for agro-statistical purposes (kg/ha/day). Every 10-days estimates are available at global scale in the spatial resolution of about 1km and with the temporal extent from 1999 to June 2020.
+https://land.copernicus.eu/en/products/vegetation/dry-matter-productivity-v2-0-1km
+---
+Gross Dry Matter Productivity 1999-2020 (raster 1 km), global, 10-daily – version 2
+Equivalent to Gross Primary Production (GPP). Every 10-days estimates are available at global scale in the spatial resolution of about 1km and with the temporal extent from 1999 to June 2020.
+https://land.copernicus.eu/en/products/vegetation/gross-dry-matter-productivity-v2-0-1km
+---
+Water Bodies 2020-present (raster 100 m), global, monthly – version 1
+Detects the areas covered by inland water along the year providing the maximum and the minimum extent of the water surface as well as the seasonal dynamics. Monthly updates are available at global scale in the spatial resolution of 100 m and with the temporal extent from 2020 to present.
+https://land.copernicus.eu/en/products/water-bodies/water-bodies-global-v1-0-100m
+---
+Water Bodies 2014-2020 (raster 300 m), global, 10-daily – version 1
+Detects the areas covered by inland water providing the maximum and the minimum extent of the water surface as well as the seasonal dynamics. 10-daly data are available at global scale in the spatial resolution of 300 m and with the temporal extent from 2014 to 2020.
+https://land.copernicus.eu/en/products/water-bodies/water-bodies-global-v1-0-300m
+---
+Water Bodies 2020-present (raster 300 m), global, monthly – version 2
+Detects the areas covered by inland water providing the maximum and the minimum extent of the water surface as well as the seasonal dynamics. Monthly updates are available at global scale in the spatial resolution of 300 m and with the temporal extent from 2020 to present.
+https://land.copernicus.eu/en/products/water-bodies/water-bodies-global-v2-0-300m
+---
+Lake Water Level 1992-present (vector), global, Near Real Time – version 2
+Defined as the height, in meters above the geoid, of the reflecting surface of continental water bodies. It is observed by space radar altimeters that measure the time it takes for radar pulses to reach the ground targets, directly below the spacecraft (nadir position), and return. The data at global scale are available in near real time in vector format and with the temporal extent from 1992 to present.
+https://land.copernicus.eu/en/products/water-bodies/water-level-lakes-near-real-time-v2.0
+---
+River Water Level 2002-present (vector), global, Near Real Time – version 2
+Defined as the height, in meters above the geoid, of the reflecting surface of continental water bodies. It is observed by space radar altimeters that measure the time it takes for radar pulses to reach the ground targets, directly below the spacecraft (nadir position), and return. The data at global scale are available in near real time in vector format and with the temporal extent from 2002 to present.
+https://land.copernicus.eu/en/products/water-bodies/water-level-rivers-near-real-time-v2.0
+---
+Lake Water Quality 2019-present (raster 100 m), global, 10-daily – version 1
+Provides semi-continuous observations for a large number of medium and large-sized lakes, according to the Global Lakes and Wetlands Database (GLWD) or otherwise of specific environmental monitoring interest. 10-daily observations are available in near real time in the spatial resolution of 100 m and and with the temporal extent from 2019 to present.
+https://land.copernicus.eu/en/products/water-bodies/lake-water-quality-v1-0-100m
+---
+Lake Water Quality 2016-present (raster 300 m), global, 10-daily – version 1
+Provides semi-continuous observations for a large number of medium and large-sized lakes, according to the Global Lakes and Wetlands Database (GLWD) or otherwise of specific environmental monitoring interest. 10-daily observations are available in near real time in the spatial resolution of 300 m and and with the temporal extent from 2016 to present.
+https://land.copernicus.eu/en/products/water-bodies/lake-water-quality-near-real-time-v1-0-300m
+---
+Lake Water Quality 2002-2012 (raster 300 m), global, 10-daily – version 1
+Provides semi-continuous observations for a large number of medium and large-sized lakes, according to the Global Lakes and Wetlands Database (GLWD) or otherwise of specific environmental monitoring interest. 10-daily observations are available in the spatial resolution of 300 m and with the temporal extent from 2002 to 2012.
+https://land.copernicus.eu/en/products/water-bodies/lake-water-quality-offline-v1-0-300m
+---
+Aggregated River and Lake Ice Extent 2016-present (vector), Europe, daily
+Provides at pan-European and in near real time mode daily information on the percent coverage of snow-covered or snow-free ice on lakes and on 10 km river sections. The data are derived from all River and Lake Ice Extent products and available at 20 m x 20 m spatial resolution with the temporal extent from September 2016 to present.
+https://land.copernicus.eu/en/products/water-bodies/high-resolution-aggregated-river-and-lake-ice-extent
+---
+Lake Ice Extent 2021-present (raster 500 m), Northern Hemisphere, daily – version 1
+On a daily basis classifies pixels in Northern Hemisphere freshwater bodies into 1) Ice, 2) Open water, and 3) Cloud. The class “Ice” includes various types of ice, also snow-covered ice. The data is updated in near real-time with the spatial resolution of 500 m and with has a temporal extent from April 2021 to present.
+https://land.copernicus.eu/en/products/water-bodies/lake-ice-extent-northern-hemisphere-500m
+---
+River and Lake Ice Extent 2016-present (raster 20 m), Europe, daily
+Provides at pan-European scale daily information on the area of snow-free or snow-covered ice based on the sensors used: 1) Sentinel-1 and according to Sentinel-1 revisit time (6 days) and in near real time; 2) Sentinel-2 and according to Sentinel-2 revisit time (5 days) and in near real time and 3) the two first River and Lake Ice Extent products and in near real time. The data are available at 20 m x 20 m spatial resolution with the temporal extent from September 2016 to present.
+https://land.copernicus.eu/en/products/water-bodies/high-resolution-river-and-lake-ice-extent
+---
+EU-Hydro River Network Database 2006-2012 (vector), Europe
+Provides at pan-European level a photo-interpreted river network, consistent of surface interpretation of water bodies (lakes and wide rivers), and a drainage model (also called Drainage Network), derived from EU-DEM, with catchments and drainage lines and nodes. The dataset has a Minimum Mapping Unit (MMU) of 1 ha and is available as vector data.
+https://land.copernicus.eu/en/products/eu-hydro/eu-hydro-river-network-database
+---
+Very High Resolution Image Mosaic 2018 True Colour (raster 2 m), Europe
+Provides at pan-European level one cloud-free very high resolution optical coverage for the 2018 reference year, acquired within predefined windows corresponding to the vegetation season in 2017-2018-2019. The very high resolution images are obtained from various missions and have a spatial resolution from 1 m to maximum 4 m.
+https://land.copernicus.eu/en/products/european-image-mosaic/very-high-resolution-image-mosaic-2018-true-colour-2m
+---
+Very High Resolution Image Mosaic 2012 True Colour (raster 2.5 m), Europe
+Provides at pan-European level one cloud-free very high resolution optical coverage for the 2012 reference year, acquired within predefined windows from January 2011 to December 2013. The very high resolution images are obtained from various missions and have a spatial resolution from 1 m to maximum 4 m.
+https://land.copernicus.eu/en/products/european-image-mosaic/very-high-resolution-image-mosaic-2012-true-colour-2-5m
+---
+High Resolution Image Mosaic 2018 True Colour (raster 10 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 10 m True Colour Composite for the 2018 reference year, from images acquired from Sentinel-2 within a predefined window corresponding to the vegetation season in 2018.
+https://land.copernicus.eu/en/products/european-image-mosaic/high-resolution-image-mosaic-2018-true-colour-10m
+---
+High Resolution Image Mosaic 2018 False Colour (raster 10 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 10 m False Colour Composite for the 2018 reference year, from images acquired from Sentinel-2 within a predefined window corresponding to the vegetation season in 2018.
+https://land.copernicus.eu/en/products/european-image-mosaic/high-resolution-image-mosaic-2018-false-colour-10m
+---
+High Resolution Image Mosaic 2015-coverage 1 False Colour (raster 20 m), Europe, 3-yearly
+Provides at pan-European level  cloud-free high resolution optical coverage (coverage 1) in the spatial resolution of 20 m for the 2015 reference year, from images within a predefined window corresponding to the vegetation season in 2014-2015.
+https://land.copernicus.eu/en/products/european-image-mosaic/high-resolution-image-mosaic-2015-false-colour-cov1-20m
+---
+High Resolution Image Mosaic 2015-coverage 2 False Colour (raster 20 m), Europe, 3-yearly
+Provides at pan-European level cloud-free high resolution optical coverage (coverage 2) in the spatial resolution of 20 m for the 2015 reference year, from images within a predefined window corresponding to the vegetation season in 2014-2015. Coverage 2 acquisitions are 6 weeks away from Coverage 1, down to a minimum of 2 weeks for northern Europe, including the United Kingdom.
+https://land.copernicus.eu/en/products/european-image-mosaic/high-resolution-image-mosaic-2015-false-colour-cov2-20m
+---
+High Resolution Image Mosaic 2012-coverage 2 True Colour (raster 5 m), Europe, 3-yearly
+Provides at pan-European level high resolution image mosaic (coverage 2) in the spatial resolution of 5 m for the 2012 reference year, from the imagery acquired within predefined windows in 2011, 2012 and 2013. Coverage 2 acquisitions are 6 weeks away from Coverage 1, down to a minimum of 2 weeks for northern Europe, including the United Kingdom.
+https://land.copernicus.eu/en/products/european-image-mosaic/high-resolution-image-mosaic-2012-true-colour-cov2-5m
+---
+High Resolution Image Mosaic 2012-coverage 2 True Colour (raster 20 m), Europe, 3-yearly
+Provides at pan-European level high resolution image mosaic (coverage 2) in the spatial resolution of 20 m for the 2012 reference year, from images acquired within a predefined window corresponding to the vegetation season in 2011-2012-2013. Coverage 2 acquisitions are 6 weeks away from Coverage 1, down to a minimum of 2 weeks for northern Europe, including the United Kingdom.
+https://land.copernicus.eu/en/products/european-image-mosaic/high-resolution-image-mosaic-2012-true-colour-cov2-20m
+---
+High Resolution Image Mosaic 2012-coverage 1 False Colour (raster 20 m), Europe, 3-yearly
+Provides at pan-European level high resolution image mosaic (coverage 1) in the spatial resolution of 20 m for the 2012 reference year, from images acquired within a predefined window corresponding to the vegetation season in 2011-2012-2013.
+https://land.copernicus.eu/en/products/european-image-mosaic/high-resolution-image-mosaic-2012-false-colour-cov1-20m
+---
+High Resolution Image Mosaic 2009-coverage 1 False Colour (raster 20 m), Europe, 3-yearly
+Provides at pan-European level high resolution image mosaic (coverage 1) in the spatial resolution of 20 m for the 2009 reference year, from the imagery acquired within predefined windows in 2008-2009-2010.
+https://land.copernicus.eu/en/products/european-image-mosaic/high-resolution-image-mosaic-2009-false-colour-cov1-20m
+---
+High Resolution Image Mosaic 2006-coverage 1 False Colour (raster 20 m), Europe, 3-yearly
+Provides at pan-European level high resolution image mosaic (coverage 1) in the spatial resolution of 20 m for the 2006 reference year, from the imagery acquired within predefined windows in 2005-2006-2007.
+https://land.copernicus.eu/en/products/european-image-mosaic/high-resolution-image-mosaic-2006-false-colour-cov1-20m
+---
+High Resolution Image Mosaic 2006-coverage 2 False Colour (raster 20 m), Europe, 3-yearly
+Provides at pan-European level high resolution image mosaic (coverage 2) in the spatial resolution of 20 m for the 2006 reference year, from the imagery acquired within predefined windows in 2005-2006-2007.
+https://land.copernicus.eu/en/products/european-image-mosaic/high-resolution-image-mosaic-2006-false-colour-cov2-20m
+---
+Normalised Difference Vegetation Index (Long Term Statistics) 1999-2019 (raster 1 km), global, 10-daily – version 3
+Based upon SPOT/VEGETATION and PROBA-V NDVI 1km version 3, long-term statistics include the minimum, median, maximum, mean, standard deviation and the number of observations over the 21-years period 1999-2019.
+https://land.copernicus.eu/en/products/vegetation/normalised-difference-vegetation-long-term-statistics-v3-0-1km
+---
+Lake Water Quality 2024-present (raster 100 m), global, 10-daily – version 2
+Provides semi-continuous observations for a large number of medium and large-sized lakes, according to the Global Lakes and Wetlands Database (GLWD) or otherwise of specific environmental monitoring interest. 10-daily observations are available in near real time at 100 m spatial resolution from September 2024 to present.
+https://land.copernicus.eu/en/products/water-bodies/lake-water-quality-v2-0-100m
+---
+Net Primary Production 2023-present (raster 300 m), global, 10-daily – version 1
+Provides the amount of carbon retained in an ecosystem (increase in biomass); it is equal to the difference between the amount of carbon produced through photosynthesis (GPP) and the amount of energy that is used for respiration (R). 10-daily observations are available at global scale in the spatial resolution of 300 m and with the temporal extent from 2023 to present.
+https://land.copernicus.eu/en/products/vegetation/net-primary-production-v1-0-300m
+---
+Impervious Built-up 2018 (raster 10 m and 100 m), Europe, 3-yearly
+Provides at pan-European level in the spatial resolution of 10 m binary information (building / no building) within the sealing outline derived from the Imperviousness Density 2018 including the aggregated Share of Built-up layer in the spatial resolution of 100 m showing the percentage of built-up areas across Europe. 
+https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/impervious-built-up-2018
+---
+End-of-season Value 2023-present (raster 300 m), global, yearly, version 1
+Provides the value of the Plant Phenology Index at the end of the vegetation growing season. The data at global level are updated in the first quarter of each year. The data are available from 2023 to the present at about 300 m spatial resolution.
+https://land.copernicus.eu/en/products/vegetation/end-of-season-value-2023-raster-300m-global-yearly-version-1
+---

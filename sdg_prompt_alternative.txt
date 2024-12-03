@@ -1,0 +1,4 @@
+I will give you a piece of legislation and a list of SDG indicators.
+Extract all reporting obligations in the paragraphs and create a table linking the most suitable SDG indicators to the paragraphs.
+The output table should contain following columns:
+Reporting obligation summary, reporting obligation citation, SDG indicator, SDG indicator number.
